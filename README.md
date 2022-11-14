@@ -25,12 +25,11 @@ The code is apply CRUD using AJAX and Laravel 9 , in this code example to unders
 - composer install
 - copy .env.example to .env
 - php artisan key:generate
-- create database name qr_system on xampp server http://localhost/phpmyadmin/index.php?route=/server/databases.
+- create database name ajaxapp on xampp server http://localhost/phpmyadmin/index.php?route=/server/databases.
 - php artisan migrate:fresh
 - php artisan db:seed
 - php artisan serve
 - http://localhost:8000/users on browser
-- You have two accounts to login email : administrator@gmail.com | password : administrator or email : teacher@gmail.com | password : teacher.
 
 ## Application Run
 - https://www.youtube.com/watch?v=Pvi249pysaQ.
